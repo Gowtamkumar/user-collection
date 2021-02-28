@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.main-container{
+  display:flex;
+  flex-wrap: wrap;
+}
+.user-container{
+width:70%;
+
+}
+.userAdd-container{
+  width:25%;
+  background-color: aqua;
+  height:300px;
+  position:fixed;
+  
+  
+}
